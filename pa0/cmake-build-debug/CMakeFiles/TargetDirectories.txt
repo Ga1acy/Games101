@@ -1,0 +1,3 @@
+/Users/galacy/Desktop/Games101/pa0/cmake-build-debug/CMakeFiles/Transformation.dir
+/Users/galacy/Desktop/Games101/pa0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/galacy/Desktop/Games101/pa0/cmake-build-debug/CMakeFiles/rebuild_cache.dir

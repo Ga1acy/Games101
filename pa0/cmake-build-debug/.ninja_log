@@ -1,0 +1,11 @@
+# ninja log v5
+0	600	1695266730308846641	CMakeFiles/Transformation.dir/main.cpp.o	c486f9fa8b75acae
+602	636	1695266730347718803	Transformation	ccc088fe59cecccd
+6	766	1695268872877138403	CMakeFiles/Transformation.dir/main.cpp.o	c486f9fa8b75acae
+766	810	1695268872925676807	Transformation	ccc088fe59cecccd
+6	634	1695268990265217062	CMakeFiles/Transformation.dir/main.cpp.o	c486f9fa8b75acae
+634	669	1695268990302896419	Transformation	ccc088fe59cecccd
+6	553	1695269128182512176	CMakeFiles/Transformation.dir/main.cpp.o	c486f9fa8b75acae
+553	590	1695269128222033076	Transformation	ccc088fe59cecccd
+6	543	1695269161906036711	CMakeFiles/Transformation.dir/main.cpp.o	c486f9fa8b75acae
+543	575	1695269161940844259	Transformation	ccc088fe59cecccd
