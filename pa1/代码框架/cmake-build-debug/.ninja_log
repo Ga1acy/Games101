@@ -1,5 +1,8 @@
 # ninja log v5
-4	881	1695367741786009510	CMakeFiles/Rasterizer.dir/Triangle.cpp.o	b7ffed692b0cad33
-2	1368	1695367742273134555	CMakeFiles/Rasterizer.dir/main.cpp.o	620076d115937262
-3	1476	1695367742380490217	CMakeFiles/Rasterizer.dir/rasterizer.cpp.o	cd337fa57b27e3e9
-1476	1544	1695367742453961530	Rasterizer	dd747bf5b4884b03
+1	1939	1695460204523145456	CMakeFiles/Rasterizer.dir/Users/galacy/Desktop/Games101/pa2/代码框架/main.cpp.o	bf1dac5326b2e823
+1	2029	1695460204614006497	CMakeFiles/Rasterizer.dir/rasterizer.cpp.o	cd337fa57b27e3e9
+1	1909	1695460204492035133	CMakeFiles/Rasterizer.dir/main.cpp.o	620076d115937262
+2	2080	1695460204664405581	CMakeFiles/Rasterizer.dir/Users/galacy/Desktop/Games101/pa2/代码框架/rasterizer.cpp.o	4223b176c37b64a4
+2	1385	1695460203970156474	CMakeFiles/Rasterizer.dir/Users/galacy/Desktop/Games101/pa2/代码框架/Triangle.cpp.o	e542659b89709f92
+1	1396	1695460203979855562	CMakeFiles/Rasterizer.dir/Triangle.cpp.o	b7ffed692b0cad33
+0	48	1695460448843232736	build.ninja	b48eacdb4e521432

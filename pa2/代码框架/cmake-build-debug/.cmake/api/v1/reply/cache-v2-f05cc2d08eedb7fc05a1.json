@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6/cmake-build-debug"
+			"value" : "/Users/galacy/Desktop/pa2/\u4ee3\u7801\u6846\u67b6/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/galacy/Desktop/pa2/\u4ee3\u7801\u6846\u67b6/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6"
+			"value" : "/Users/galacy/Desktop/pa2/\u4ee3\u7801\u6846\u67b6"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6/cmake-build-debug"
+			"value" : "/Users/galacy/Desktop/pa2/\u4ee3\u7801\u6846\u67b6/cmake-build-debug"
 		},
 		{
 			"name" : "Rasterizer_IS_TOP_LEVEL",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6"
+			"value" : "/Users/galacy/Desktop/pa2/\u4ee3\u7801\u6846\u67b6"
 		}
 	],
 	"kind" : "cache",
