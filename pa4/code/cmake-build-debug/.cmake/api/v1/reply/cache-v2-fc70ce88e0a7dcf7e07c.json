@@ -2,6 +2,42 @@
 	"entries" : 
 	[
 		{
+			"name" : "BezierCurve_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/galacy/Desktop/pa4/code/cmake-build-debug"
+		},
+		{
+			"name" : "BezierCurve_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "BezierCurve_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/galacy/Desktop/pa4/code"
+		},
+		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -55,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6/cmake-build-debug"
+			"value" : "/Users/galacy/Desktop/pa4/code/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +515,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/galacy/Desktop/pa4/code/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +575,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6"
+			"value" : "/Users/galacy/Desktop/pa4/code"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -819,7 +855,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Project"
+			"value" : "BezierCurve"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1124,78 +1160,6 @@
 			],
 			"type" : "PATH",
 			"value" : "/opt/homebrew/lib/cmake/opencv4"
-		},
-		{
-			"name" : "Project_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6/cmake-build-debug"
-		},
-		{
-			"name" : "Project_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "Project_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6"
-		},
-		{
-			"name" : "Rasterizer_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6/cmake-build-debug"
-		},
-		{
-			"name" : "Rasterizer_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "Rasterizer_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/galacy/Desktop/Games101/pa1/\u4ee3\u7801\u6846\u67b6"
 		}
 	],
 	"kind" : "cache",

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/galacy/Desktop/pa2/代码框架
+# Install script for directory: /Users/galacy/Desktop/Games101/pa2/代码框架
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/galacy/Desktop/pa2/代码框架/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/galacy/Desktop/Games101/pa2/代码框架/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
