@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/galacy/Desktop/pa5/Code/cmake-build-debug"
+			"value" : "/Users/galacy/Desktop/pa6/Assignment6/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/galacy/Desktop/pa5/Code/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/galacy/Desktop/pa6/Assignment6/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/galacy/Desktop/pa5/Code"
+			"value" : "/Users/galacy/Desktop/pa6/Assignment6"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/galacy/Desktop/pa5/Code/cmake-build-debug"
+			"value" : "/Users/galacy/Desktop/pa6/Assignment6/cmake-build-debug"
 		},
 		{
 			"name" : "RayTracing_IS_TOP_LEVEL",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/galacy/Desktop/pa5/Code"
+			"value" : "/Users/galacy/Desktop/pa6/Assignment6"
 		}
 	],
 	"kind" : "cache",

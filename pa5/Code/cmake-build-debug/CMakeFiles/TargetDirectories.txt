@@ -1,3 +1,3 @@
-/Users/galacy/Desktop/pa5/Code/cmake-build-debug/CMakeFiles/RayTracing.dir
-/Users/galacy/Desktop/pa5/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/galacy/Desktop/pa5/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/galacy/Desktop/Games101/pa5/Code/cmake-build-debug/CMakeFiles/RayTracing.dir
+/Users/galacy/Desktop/Games101/pa5/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/galacy/Desktop/Games101/pa5/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
