@@ -1,0 +1,3 @@
+/Users/galacy/Desktop/pa7/Assignment7/cmake-build-debug/CMakeFiles/RayTracing.dir
+/Users/galacy/Desktop/pa7/Assignment7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/galacy/Desktop/pa7/Assignment7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
